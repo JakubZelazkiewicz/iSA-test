@@ -10,6 +10,7 @@ class PatientService {
         this.patients.add(new Patient("m", "Nowakowska1", 13));
         this.patients.add(new Patient("mm", "Nowakowska2", 13));
         this.patients.add(new Patient("mmm", "Nowakowska3", 13));
+        this.patients.add(new Patient("das", "Nowakowska3", 13));
     }
 
     List<Patient> getAll() {
