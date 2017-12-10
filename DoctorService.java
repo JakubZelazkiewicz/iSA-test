@@ -6,7 +6,8 @@ class DoctorService {
 
     DoctorService() {
         this.doctors.add(new Doctor("Adam", "Lecz"));
-        this.doctors.add(new Doctor("Marcin", "Leczniczny"));
+        this.doctors.add(new Doctor("Marcinnn", "Leczniczny"));
+        this.doctors.add(new Doctor("Bonifacy", "Killer"));
     }
 
     List<Doctor> getAll() {
